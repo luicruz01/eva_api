@@ -1,0 +1,11 @@
+{
+    "_template": "git+https://gitlab.com/truehome/code/architecture/cookiecutter-py.git",
+    "dependency_manager": "pip",
+    "framework": "flask",
+    "project_description": "API for EVA",
+    "project_name": "eva_api",
+    "project_path": "eva_api",
+    "project_slug": "eva_api",
+    "python_version": "3.8",
+    "test_runner": "pytest"
+}
