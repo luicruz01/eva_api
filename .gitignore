@@ -7,3 +7,6 @@ settings.cfg
 .pytest_cache
 .env
 .idea
+image.jpeg
+image.jpg
+.DS_Store

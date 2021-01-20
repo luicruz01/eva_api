@@ -4,3 +4,5 @@ pre-commit==1.18.2
 flake8==3.7.7
 
 Flask==1.1.1
+requests
+Pillow
